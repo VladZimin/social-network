@@ -1,0 +1,12 @@
+.pagesBlock {
+    text-align: center;
+}
+.selectedPage {
+    font-weight: bold;
+    font-size: x-large;
+    padding: 10px;
+}
+.pageNum {
+    padding: 10px;
+    cursor: pointer;
+}

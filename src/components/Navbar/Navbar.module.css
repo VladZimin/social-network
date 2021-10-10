@@ -1,0 +1,33 @@
+.nav {
+    grid-area: n;
+    background-color: rgb(51, 179, 46);
+    padding-top: 15px;
+}
+
+.item {
+    margin-left: 15px;
+    color: white;
+}
+
+.item a {
+    color: white;
+}
+
+.item .activeLink {
+    color: gold;
+}
+
+.item_settings {
+    margin-top: 25px;
+}
+
+.sidebarDialogs  {
+    margin-top: 60px;
+}
+
+.sidebarDialogs a {
+    text-decoration: none;
+    color: white;
+    margin: 8px;
+
+}
